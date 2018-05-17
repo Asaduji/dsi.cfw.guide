@@ -1,5 +1,5 @@
 ---
-title: Credits
+title: Créditos
 layout: single
 sidebar:
   nav: "side"
