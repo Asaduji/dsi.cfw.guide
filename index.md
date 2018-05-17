@@ -30,5 +30,5 @@ El custom firmware te permite usar hacks más avanzados que el homebrew "userlan
 - El homebrew te permite modificar el sistema, lo que podría provocar fácilmente un brick si lo usas mal
 - Ten cuidado restaurando copias modificadas de la NAND y  asegúrate de probarlas en [NO$GBA](https://problemkaputt.de/gba.htm){:target="_blank"} antes de restaurarlas
 - Mantén tu consola siempre enchufada durante el proceso para evitar problemas con la batería
-- Necesitarás una tarjeta SD para realizar esta guía
-  - Tu consola debería venir con una
+- You will need an SD card to use this guide
+  - Your console should come with one
