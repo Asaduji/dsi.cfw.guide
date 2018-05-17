@@ -1,22 +1,23 @@
 ---
 layout: splash
 permalink: /
-title: DSi Guide
-excerpt: "A complete Nintendo DSi homebrew guide, from stock to HiyaCFW."
+title: Guía DSi
+excerpt: "Una guía completa de homebrew para Nintendo DSi, desde stock hasta HiyaCFW."
 header:
   overlay_color: "#1a1d24"
-  cta_label: "Get Started"
+  cta_label: "Empezar"
   cta_url: /guide/installing-unlaunch
 ---
 
-This guide is not compatible with development DSi consoles or Chinese iQue DSi consoles.
+Esta guía no es compatible para consolas DSi de desarrollo o las consolas chinas iQue DSi.
 {: .notice--info}
 
 ## ¿Qué es el homebrew?
 
-Homebrew applications are custom, user-made software, which haven't been authorised by Nintendo. This can include save editing tools, games, emulators, and more.
+Las aplicaciones homebrew son customizadas, software casero, que no han sido autorizadas por Nintendo. Esto incluye herramientas de edición de partidas guardadas, juegos, emuladores, y más.
 
-Homebrew can be run for free on your DSi as long as you have a copy of Flipnote Studio or a previous DSiWare exploit installed.
+
+Puedes hacer funcionar homebrew gratuitamente en tu DSi si dispones de una copia instalada de Flipnote Studio o un DSiWare previamente exploiteado.
 
 ## What does this guide install?
 
