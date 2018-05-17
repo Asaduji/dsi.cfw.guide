@@ -1,28 +1,28 @@
 ---
-title: Installing Unlaunch
+title: Instalando Unlaunch
 layout: single
 sidebar:
   nav: "side"
 ---
 
-If you have a non-USA console, you must have a DSiWare exploit previously installed to continue.
+Si tu consola NO es de región USA, tienes que tener instalado un DSiWare previamente exploiteado para continuar.
 {: .notice--info}
 
-Unlaunch is currently in a beta state. Please proceed with caution.
+Unlaunch actualmente están beta. Por favor, procede con precaución.
 {: .notice--info}
 
-Unlaunch is a DSi bootcode exploit which will allow you to install HiyaCFW, a DSi Custom Firmware, to your console.
+Unlaunch es un exploit bootcode de DSi que permite instalar HiyaCFW, un custom firmware de DSi a tu consola.
 
-## Downloads
-- The latest release of [Unlaunch](http://problemkaputt.de/unlaunch.zip)
-- The latest release of [HBMenu](https://github.com/devkitPro/nds-hb-menu/releases/){:target="_blank"}
-- The latest release of [ugopwn](/assets/files/ugopwn.zip)
-  - Only for USA consoles
-- The latest release of [twlnf](https://github.com/Jimmy-Z/twlnf/releases){:target="_blank"}
-- The latest release of [Python 3](https://www.python.org/downloads/){:target="_blank"}
-- The latest release of [DSi SRL Extractor](/assets/files/dsi_srl_extract.zip)
+## Descargas
+- La última versión de [Unlaunch](http://problemkaputt.de/unlaunch.zip)
+- La última versión de [HBMenu](https://github.com/devkitPro/nds-hb-menu/releases/){:target="_blank"}
+- La última versión de [ugopwn](/assets/files/ugopwn.zip)
+  - Sólo para consolas de USA
+- La última versión de [twlnf](https://github.com/Jimmy-Z/twlnf/releases){:target="_blank"}
+- La última versión de [Python 3](https://www.python.org/downloads/){:target="_blank"}
+- La última versión de [DSi SRL Extractor](/assets/files/dsi_srl_extract.zip)
 
-## Preparing your SD card
+## Preparando la tarjeta SD
 
 1. Install Python 3 on your computer
 2. Open the System Settings application
