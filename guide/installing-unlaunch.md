@@ -38,7 +38,7 @@ Unlaunch es un exploit bootcode de DSi que permite instalar HiyaCFW, un custom f
 10. Ve a /Private/DS/Title/
 11. Copia el archivo`.bin` a tu carpeta del DSi SRL Extractor
 12. Ejecuta el archivo console_id `.py` de dentro de la carpeta
-  - Este script requiere [WINE](https://www.winehq.org/){:target="_blank"} on sistemas Mac/Linux/*nix
+  - Este script requiere [WINE](https://www.winehq.org/){:target="_blank"} en sistemas Mac/Linux/*nix
 13. Cuando se abra, pulsa Enter
 14. Copia el archivo console_id `.txt` a la raíz de tu tarjeta SD
 15. Saca la tarjeta SD de tu ordenador y vuélvela a introducir en tu DSi
