@@ -14,7 +14,7 @@ Esta guía no es compatible para consolas DSi de desarrollo o las consolas china
 
 ## ¿Qué es el homebrew?
 
-Las aplicaciones homebrew son customizadas, software casero, que no han sido autorizadas por Nintendo. Esto incluye herramientas de edición de partidas guardadas, juegos, emuladores, y más.
+Las aplicaciones homebrew son customizadas, software casero que no han sido autorizado por Nintendo. Esto incluye herramientas de edición de partidas guardadas, juegos, emuladores, y más.
 
 
 Puedes hacer funcionar homebrew gratuitamente en tu DSi si dispones de una copia instalada de Flipnote Studio o un DSiWare previamente exploiteado.
