@@ -30,7 +30,7 @@ Unlaunch es un exploit bootcode de DSi que permite instalar HiyaCFW, un custom f
 	- Si no aparece gestión de datos, abre la tienda DSi, ciérrala, y vuelve a intentarlo
 4. Cuando acabe apaga la consola
 5. Saca la tarjeta SD de tu consola e insértala en el ordenador
-6. Copia el contenido del archivo `.zip` de ugopwnto a la raíz de tu SD
+6. Copia el contenido del archivo `.zip` de ugopwn a la raíz de tu SD
   - Sólo para consolas de USA
 7. Copia el contenido del archivo `.7z` de twlnf a la raíz de tu SD, y renombra `twlnf.nds` a `boot.nds`
 8. Copia el contenido del archivo `.zip` del DSi SRL Extractor a una carpeta en tu escritorio
