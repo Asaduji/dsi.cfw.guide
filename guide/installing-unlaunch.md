@@ -24,30 +24,30 @@ Unlaunch es un exploit bootcode de DSi que permite instalar HiyaCFW, un custom f
 
 ## Preparando la tarjeta SD
 
-1. Install Python 3 on your computer
-2. Open the System Settings application
-3. Select **Data Management > System Memory > Flipnote Studio > Copy > Yes**
-	- If Data Management isn't appearing, open the DSi Shop, close it, and then try again
-4. Once finished, power off your device
-5. Take your SD card out of your console and insert it into your computer
-6. Copy the contents of the ugopwn `.zip` file to the root of your SD card
-  - Only for USA consoles
-7. Copy the contents of the twlnf `.7z` file to the root of your SD card, and rename `twlnf.nds` to `boot.nds`
-8. Copy the contents of the DSi SRL Extractor `.zip` file to a folder on your Desktop
-9. Open the SD card drive on your computer
-10. Navigate to /Private/DS/Title/
-11. Copy the `.bin` file to your DSi SRL Extractor folder
-12. Run the console_id `.py` file inside the folder
-  - This script requires [WINE](https://www.winehq.org/){:target="_blank"} on Mac/Linux/*nix systems
-13. When prompted, press Enter
-14. Copy the new console_id `.txt` file to the root of your SD card
-15. Eject your SD card and insert it back into your DSi
+1. Instala Python 3 en tu ordenador
+2. Abre la aplicación de ajustes de sistema
+3. Selecciona **Gestión de datos > Memoria del sistema > Flipnote Studio > Copiar > Sí**
+	- Si no aparece gestión de datos, abre la tienda DSi, ciérrala, y vuelve a intentarlo
+4. Cuando acabe apaga la consola
+5. Saca la tarjeta SD de tu consola e insértala en el ordenador
+6. Copia el contenido del archivo `.zip` de ugopwnto a la raíz de tu SD
+  - Sólo para consolas de USA
+7. Copia el contenido del archivo `.7z` de twlnf a la raíz de tu SD, y renombra `twlnf.nds` a `boot.nds`
+8. Copia el contenido del archivo `.zip` del DSi SRL Extractor a una carpeta en tu escritorio
+9. Abre la raíz de tu tarjeta SD
+10. Ve a /Private/DS/Title/
+11. Copia el archivo`.bin` a tu carpeta del DSi SRL Extractor
+12. Ejecuta el archivo console_id `.py` de dentro de la carpeta
+  - Este script requiere [WINE](https://www.winehq.org/){:target="_blank"} on sistemas Mac/Linux/*nix
+13. Cuando se abra, pulsa Enter
+14. Copia el archivo console_id `.txt` a la raíz de tu tarjeta SD
+15. Saca la tarjeta SD de tu ordenador y vuélvela a introducir en tu DSi
 
-## Creating a NAND backup
+## Creando una copia de la NAND
 
-1. Open the Flipnote Studio application
-  - Ensure that the *booting to Calendar mode* is disabled in Flipnote Studio's settings
-  - If you already have another DSiWare exploit installed, open that and skip to Step 14
+1. Abre Flipnote Studio
+  - Asegúrate de que *Iniciar en modo calendario* está desactivado en los ajustes de Flipnote Studio
+  - If you already have another DSiWare exploit installed, open that and skip to Step 14
 2. Select **View Flipnote > SD Card > Select Folder > User > ugopwn**
 3. Click on the note with the red bottom half
 4. Select "Edit"
