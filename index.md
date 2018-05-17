@@ -25,7 +25,7 @@ Con esta guía puedes instalar HiyaCFW, un custom firmware para DSi. El custom f
 
 El custom firmware te permite usar hacks más avanzados que el homebrew "userland". Por ejemplo, los parches de firmas te permiten instalar aplicaciones sin firmar que aparecerán en el menú del sistema.
 
-## ¿Qué debería saber antes de empezar?
+## ¿Qué deberías saber antes de empezar?
 
 - El homebrew te permite modificar el sistema, lo que podría provocar fácilmente un brick si lo usas mal.
 - Ten cuidado restaurando copias modificadas de la NAND y  asegúrate de probarlas en [NO$GBA](https://problemkaputt.de/gba.htm){:target="_blank"} antes de restaurarlas.
