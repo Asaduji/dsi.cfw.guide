@@ -1,7 +1,7 @@
 ---
 layout: donations
-title: Donations
-excerpt: Support the creators of the guide
+title: Donaciones
+excerpt: Dona a los creadores de esta guía
 header:
   overlay_color: "#1a1d24"
 ---
