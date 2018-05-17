@@ -19,11 +19,11 @@ Las aplicaciones homebrew son customizadas, software casero que no han sido auto
 
 Puedes hacer funcionar homebrew gratuitamente en tu DSi si dispones de una copia instalada de Flipnote Studio o un DSiWare previamente exploiteado.
 
-## What does this guide install?
+## ¿Qué puedes instalar con esta guía?
 
-This guide will install HiyaCFW, a custom firmware for the DSi. CFW can be set up on any console on any version.
+Con esta guía puedes instalar HiyaCFW, un custom firmware para DSi. El custom firmware puede instalarse en cualquier consola en cualquier versión.
 
-Custom firmware enables you to use more advanced hacks that userland homebrew can’t easily do. For instance, signature patches let you install unsigned titles that appear right on your System Menu.
+El custom firmware te permite usar hacks más avanzados que el homebrew "userland" no podría. Por ejemplo, los parches de firmas te permiten instalar aplicaciones sin firmar que aparecerán en el menú del sistema.
 
 ## What should I know before starting?
 
