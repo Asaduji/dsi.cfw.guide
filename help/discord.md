@@ -8,7 +8,7 @@ sidebar:
 Por favor lee nuestro [FAQ](/help/faq) antes de pedir ayuda en Discord.
 {: .notice--info}
 
-Si tienes algún problema con respecto a las guías en este sitio, por favor pide ayuda en Discord.
+Si tienes alguna duda o problema con respecto a las guías en este sitio, por favor pregunta en Discord.
 
 ---
 
