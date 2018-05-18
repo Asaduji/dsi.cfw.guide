@@ -32,7 +32,7 @@ HiyaCFW es un custom firmware para el Nintendo DSi que, una vez instalado, permi
   - Tú tendrías que tener esta copia de una sección anterior
 - [Scripts de ayuda para la instalación de HiyaCFW](/assets/files/hiyacfw_helper.zip)
 
-## Preparation
+## Preparación
 1. Inserta tu tarjeta SD de 2GB o menor en tu ordenador
 2. Copia *el contenido* del archivo `.zip` de NUSDownloader a una carpeta en tu ordenador
 3. Copia *el contenido* del archivo `.7z` de HiyaCFW a una carpeta en tu ordenador
