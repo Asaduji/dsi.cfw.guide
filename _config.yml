@@ -8,12 +8,12 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-UK"
-title                    : "DSi Guide"
+locale                   : "es-ES"
+title                    : "Guía DSi"
 title_separator          : "-"
 name                     : "emiyl"
-description              : "A complete Nintendo DSi homebrew guide, from stock to HiyaCFW."
-url                      : "https://dsi.cfw.guide"
+description              : "Una guía comoleta de homebrew para DSi, desde stock hasta HiyaCFW."
+url                      : "https://dsi.es.cfw.guide"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
