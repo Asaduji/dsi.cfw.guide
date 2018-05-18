@@ -11,11 +11,11 @@ side:
   - title: Guía
     children:
       - title: "Instalando Unlaunch"
-        url: /guide/installing-unlaunch/
+        url: /guide/instalando-unlaunch/
       - title: "Instalando HiyaCFW"
-        url: /guide/installing-hiyacfw/
+        url: /guide/instalando-hiyacfw/
       - title: "Finalizando instalación"
-        url: /guide/finalizing-setup/
+        url: /guide/finalizando-instalacion/
 
   - title: Más
     children:
